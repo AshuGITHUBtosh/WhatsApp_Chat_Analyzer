@@ -7,6 +7,9 @@ This project is a WhatsApp Group Chat Analyzer built with Python and Streamlit. 
  - Total number of links shared
  - Top 5 most active members
  - Data visualization for better insights
+
+##  Installation & Setup
+ - pip install streamlit pandas matplotlib seaborn
 ## Execution
 - ```cd WhatsApp_Chat_Analyzer-master```
 - ``` streamlit run app.py```
